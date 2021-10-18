@@ -5,6 +5,6 @@
     # Distro Upgrade
     alias upgrade="sudo apt update && sudo apt dist-upgrade -y"
     # Install essentiel
-    alias fresh="sudo apt update && sudo apt install git curl wget net-tools -y"
+    alias fresh="sudo apt update && sudo apt install git curl wget net-tools tmux htop -y"
     # What is  my ip
     alias wip="curl icanhazip.com"
