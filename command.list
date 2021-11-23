@@ -1,0 +1,16 @@
+
+
+>> upgrade  = distro upgrade for Debain Arch RedHat (>> apt / pacman / yum <<)
+
+>> wip  = What is my ip 
+
+>> fresh  = Install essentiel tool for linux (git curl wget nettools tmux htop)
+
+>> reboot  = Reboot pc 
+
+>> port  = Scan for open Port on machine
+
+>> ssha  = Ssh Agent (please modify your .bashrc file for your credentiel .. )
+
+
+
