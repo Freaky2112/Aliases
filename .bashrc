@@ -137,8 +137,8 @@ fi
     
     # SSH AGENT  Alias
     alias  ssha='eval $(ssh-agent -s) && ssh-add ~/.ssh/test && ssh-add ~/.ssh/Aliases-ed25519'
-    # Distro Upgrade
-    alias upgrade="sudo apt update && sudo apt dist-upgrade -y"
+    # Distro Upgrade ( yum / pcaman / apt )
+    alias upgrade="./Aliases/upgradescript.sh"
     # Install essentiel
     alias fresh="sudo apt update && sudo apt install git curl wget net-tools tmux htop -y"
     # What is  my ip
