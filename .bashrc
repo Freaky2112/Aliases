@@ -57,7 +57,7 @@ if [ -n "$force_color_prompt" ]; then
 fi
 
 ### Emoji for Promt change in promt >> here a small list <<
-# 👽  ☠️  👽 ❄️ ⚡ 🎱
+# 👽  ☠️  💀 ❄️ ⚡ 🎱
 if [ "$color_prompt" = yes ]; then
     prompt_color='\[\033[;32m\]'
     info_color='\[\033[1;34m\]'
