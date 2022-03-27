@@ -1,0 +1,10 @@
+# Copy to /etc/systemd/system/
+mv regenerate_ssh_host_keys.service /etc/sytemd/system
+# Enable file 
+sudo systemctl daemon-reload
+sudo systemctl enable regenerate_ssh_host_keys.service
+
+
+
+
+

@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo mv regenerate_ssh_host_keys.service /etc/systemd/system/
