@@ -11,6 +11,14 @@ cd Aliases
 ./install.sh
 ```
 
+## Edit Bashrc File
+```
+cd ~
+nano .bashrc
+--- change alias ssha to your ssh key (line 144)
+--- you could change emoji in prompt_symbol (line 65)
+```
+
 # Uninstallation
 
 ### Change to dotfiles folder
