@@ -1,4 +1,7 @@
 
+---->> Aliases <<----
+
+## Open .bashrc in your Home Directory and search for alias
 
 >> upgrade  = distro upgrade for Debain Arch RedHat (>> apt / pacman / yum <<)
 
@@ -11,6 +14,15 @@
 >> port  = Scan for open Port on machine
 
 >> ssha  = Ssh Agent (please modify your .bashrc file for your credentiel .. )
+
+
+---->Command Promt Mod <----
+
+## Open .bashrc in your Home Directory and search for PS1
+
+you could change $info_color -> Username and $
+$prompt_color -> Bracket
+$host_color -> Hostname
 
 
 

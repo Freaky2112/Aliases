@@ -19,3 +19,4 @@ else
 fi
 
 echo "Installed"
+echo "$(cat command.list)"
