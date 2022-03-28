@@ -141,7 +141,7 @@ fi
 # ## My Aliases ##
     
     # SSH AGENT  Alias
-    alias  ssha='eval $(ssh-agent -s) && ssh-add ~/.ssh/test'
+    alias  ssha='eval $(ssh-agent -s) && ssh-add ~/.ssh/pi_1'
     # Distro Upgrade ( yum / pcaman / apt )
     alias upgrade="./Aliases/upgradescript.sh"
     # Install essentiel
