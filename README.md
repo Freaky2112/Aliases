@@ -30,3 +30,4 @@ cd ~/Aliases
 ```
 ./uninstall.sh
 ```
+.
